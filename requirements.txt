@@ -1,0 +1,5 @@
+cryptography==2.1.4
+Flask==0.12.1
+Flask-Ask==0.9.8
+Unidecode==1.0.22
+requests==2.20.0
